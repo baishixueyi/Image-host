@@ -9,4 +9,4 @@
 4. 查看上传图片历史记录
 5. 网站使用说明
 - 涉及到的技术栈：
-1. react react-router mobx mobx-react babel antd styled-components useEffect useStore
+1. react + react-router + mobx + mobx-react + babel + antd + styled-components + useEffect + useStore
