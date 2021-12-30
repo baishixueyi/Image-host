@@ -1,0 +1,2 @@
+(this["webpackJsonpepic-image"]=this["webpackJsonpepic-image"]||[]).push([[11],{247:function(e,t,a){"use strict";a.r(t);var i=a(0),n=a.n(i),s=a(253),c=a(117),r=a(12);t.default=function(){var e=Object(r.f)();return n.a.createElement(s.a,{status:"404",title:"404",subTitle:"Sorry, the page you visited does not exist.",extra:n.a.createElement(c.a,{type:"primary",onClick:function(){e.push("/")}},"Back Home")})}}}]);
+//# sourceMappingURL=11.1c93cad6.chunk.js.map
